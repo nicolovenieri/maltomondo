@@ -1,0 +1,93 @@
+
+.container {
+    background-color: #ff0000;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.subcontainer {
+    background-color: #d000ff;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 100%;
+    max-height: 100%;
+}
+
+h1, p{
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    color: #000000;
+    font-size: 2em;
+}
+
+p {
+    color: #696969;
+}
+.logo {
+    padding-top: 20px;
+    padding-left: 14px;
+    font-size: 2.2em;
+    font-weight: 900;
+    font-family: Helvetica, sans-serif;
+    color: rgba(255, 234, 0, 0.65);
+}
+.corpo {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+    background-color: #ffac00;
+}
+
+header {
+    background-color: #ff983c;
+    padding: 10px;
+    text-align: right;
+}
+
+header button {
+    padding: 10px;
+    background-color: #009b1e;
+    border: none;
+    cursor: pointer;
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #ff6600;
+    padding: 20px;
+    text-align: center;
+}
+
+
+button {
+    padding: 10px;
+    background-color: #ffbf00;
+    border: none;
+    cursor: pointer;
+    color: #000000;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-family: Helvetica, sans-serif;
+}
+
+button:hover {
+    background-color: #009b1e;
+}
+
+.clearfix:after {
+    content: ".";
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+}

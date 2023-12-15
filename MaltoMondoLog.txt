@@ -1,0 +1,1952 @@
+nov 29, 2023 5:08:52 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+nov 29, 2023 5:08:52 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManagement view
+nov 29, 2023 5:13:16 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+nov 29, 2023 5:13:16 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManagement view
+nov 29, 2023 5:19:16 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+nov 29, 2023 5:19:16 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: ProvaController view
+nov 29, 2023 5:20:42 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: ProvaController view
+nov 29, 2023 5:22:24 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+nov 29, 2023 5:22:24 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: ProvaController view
+nov 30, 2023 2:32:59 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+nov 30, 2023 2:32:59 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: ProvaController view
+nov 30, 2023 2:33:13 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: ProvaController view
+nov 30, 2023 2:33:17 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: ProvaController view
+nov 30, 2023 2:33:21 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: ProvaController view
+nov 30, 2023 2:33:25 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: ProvaController view
+nov 30, 2023 3:10:50 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+nov 30, 2023 3:10:50 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: ProvaController view
+nov 30, 2023 3:11:41 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: ProvaController view
+nov 30, 2023 3:42:59 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: ProvaController view
+nov 30, 2023 3:43:03 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: ProvaController view
+nov 30, 2023 3:43:06 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: ProvaController view
+nov 30, 2023 3:47:12 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+nov 30, 2023 3:47:12 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:47:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:47:15 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:47:16 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:47:16 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:47:17 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:47:17 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:47:17 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:47:18 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:47:18 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:47:18 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:47:18 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:47:18 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:47:19 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:56:10 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+nov 30, 2023 3:56:10 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:56:12 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:56:13 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:56:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:56:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:57:49 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+nov 30, 2023 3:57:49 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 3:57:50 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+nov 30, 2023 4:17:52 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+nov 30, 2023 4:17:52 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:17:54 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+nov 30, 2023 4:19:12 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManagement view
+nov 30, 2023 4:19:20 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:19:22 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+nov 30, 2023 4:19:32 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:21:51 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+nov 30, 2023 4:21:51 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:22:05 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+nov 30, 2023 4:22:29 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:22:35 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+nov 30, 2023 4:22:36 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:23:33 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:23:34 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:23:34 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:23:34 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:23:34 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:23:43 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:23:46 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+nov 30, 2023 4:23:46 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:23:46 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+nov 30, 2023 4:23:47 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:27:33 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+nov 30, 2023 4:27:33 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:27:39 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+nov 30, 2023 4:27:40 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:27:41 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+nov 30, 2023 4:27:41 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:27:42 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+nov 30, 2023 4:27:42 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:27:42 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+nov 30, 2023 4:27:43 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:27:43 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+nov 30, 2023 4:27:43 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:27:44 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+nov 30, 2023 4:27:45 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:27:48 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+nov 30, 2023 4:27:50 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:27:51 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+nov 30, 2023 4:27:52 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+nov 30, 2023 4:27:54 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 01, 2023 5:03:29 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 01, 2023 5:03:29 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 01, 2023 5:03:35 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 01, 2023 5:03:37 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 01, 2023 5:03:38 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 01, 2023 5:03:39 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 01, 2023 5:03:39 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 01, 2023 5:03:40 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 01, 2023 5:04:01 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 01, 2023 5:04:02 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 01, 2023 5:04:10 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 01, 2023 5:04:10 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 01, 2023 5:04:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 01, 2023 5:04:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 01, 2023 5:12:16 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 01, 2023 5:12:16 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 01, 2023 5:12:41 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 01, 2023 5:12:42 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 01, 2023 5:15:04 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 01, 2023 5:20:18 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 01, 2023 5:20:18 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 01, 2023 5:20:22 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 01, 2023 5:20:23 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 01, 2023 5:24:54 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 01, 2023 5:24:54 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 01, 2023 5:26:35 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 01, 2023 5:26:35 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 01, 2023 5:26:37 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:34:15 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 05, 2023 4:34:15 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:34:18 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:36:17 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 05, 2023 4:36:17 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:36:22 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:36:26 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:36:27 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:36:28 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:36:28 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:36:30 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:36:30 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:36:31 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:36:32 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:36:33 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:37:02 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:37:03 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:37:04 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:37:05 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:37:05 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:37:06 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:37:08 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:37:09 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:37:09 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:37:10 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:37:11 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:37:11 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:37:11 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:37:13 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:37:15 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:38:16 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:38:17 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:38:18 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:38:32 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:38:34 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:38:35 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:38:35 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:39:04 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:39:05 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:39:06 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:39:06 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:39:06 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:40:00 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:40:01 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:40:02 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:40:03 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:40:06 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:40:07 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:40:07 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:40:07 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:40:44 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:40:48 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:40:50 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:40:50 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 4:40:51 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:44:54 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:47:03 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:47:04 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:47:05 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:47:40 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:47:46 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:47:46 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:48:41 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:50:00 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:50:00 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:51:15 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:51:16 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 4:54:05 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 5:08:54 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 05, 2023 5:08:54 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 5:08:55 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 5:08:56 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 5:12:10 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 5:12:11 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 5:12:12 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 5:14:09 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 5:14:10 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 5:14:11 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 5:16:05 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 05, 2023 5:16:05 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 5:16:06 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 5:16:07 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 5:23:42 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 05, 2023 5:23:42 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 5:23:45 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 5:23:51 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 5:23:51 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 5:56:17 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 05, 2023 5:56:17 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 5:56:20 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 5:58:34 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 05, 2023 5:58:35 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 05, 2023 5:58:37 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 3:54:57 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 06, 2023 3:54:57 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 3:54:58 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 3:55:00 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 3:55:02 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 3:55:07 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 3:55:38 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 3:55:39 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 3:56:13 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 3:56:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 3:56:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:23:06 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 06, 2023 4:23:06 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:23:08 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:23:19 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:23:23 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:23:24 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:23:27 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:23:28 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:23:29 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:24:56 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 06, 2023 4:24:56 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:24:56 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:24:56 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:25:12 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:25:13 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:25:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:25:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:25:40 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:25:42 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:26:05 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:26:07 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:26:10 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:26:11 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:28:53 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:29:01 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:29:03 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:29:41 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:29:43 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:29:43 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:29:43 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:29:43 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:29:44 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:29:45 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:29:46 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:29:46 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:30:41 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:30:41 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:30:41 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:30:42 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:30:43 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:30:45 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:30:46 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:30:49 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:30:49 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:30:59 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:31:00 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:31:02 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:31:04 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:31:05 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:31:06 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:31:07 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:31:07 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:33:25 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:33:26 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:33:27 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:33:27 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:33:30 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:33:30 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:33:47 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:34:10 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:34:11 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:34:11 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:34:11 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:34:12 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:34:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:34:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:34:15 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:34:15 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:34:15 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:34:54 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:35:31 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:35:32 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:35:32 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:35:35 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:35:36 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:35:37 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:35:37 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:35:37 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:36:54 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:36:56 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:36:57 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:36:57 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:36:57 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:36:58 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:36:58 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:36:58 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:37:41 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 06, 2023 4:37:41 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:37:43 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:37:44 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:37:45 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:37:46 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:37:46 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:37:49 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:38:05 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:38:05 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:39:25 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:39:27 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:39:29 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:39:30 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:40:09 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:40:10 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:40:11 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:40:11 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:40:12 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:40:12 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:40:12 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:40:13 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:40:13 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:40:15 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:40:17 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:40:18 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:40:19 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:40:20 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:40:23 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 4:40:24 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 06, 2023 4:50:28 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 06, 2023 4:50:28 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 5:34:40 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 06, 2023 5:34:40 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 06, 2023 5:38:10 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 07, 2023 2:25:52 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 07, 2023 2:25:52 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 07, 2023 2:25:54 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 07, 2023 2:25:55 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 07, 2023 2:25:57 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 07, 2023 2:25:58 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 07, 2023 2:26:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 07, 2023 2:26:15 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 07, 2023 2:26:19 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 07, 2023 2:26:19 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 07, 2023 2:26:27 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 07, 2023 2:26:30 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 07, 2023 2:26:31 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 07, 2023 2:26:33 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 07, 2023 2:26:38 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 07, 2023 2:45:51 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 07, 2023 2:45:51 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 07, 2023 2:45:53 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 07, 2023 2:45:54 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 07, 2023 2:45:54 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 07, 2023 2:45:56 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 07, 2023 2:45:57 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 07, 2023 2:45:59 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 07, 2023 2:46:02 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 08, 2023 2:02:04 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 08, 2023 2:02:04 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 08, 2023 2:02:08 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 08, 2023 2:02:09 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 08, 2023 2:02:14 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 08, 2023 2:02:14 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 08, 2023 2:02:15 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 08, 2023 2:02:16 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 08, 2023 2:02:22 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 08, 2023 2:02:22 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 08, 2023 2:02:24 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 08, 2023 2:02:24 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 08, 2023 2:02:26 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 08, 2023 2:02:27 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 08, 2023 2:02:28 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 08, 2023 2:02:29 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: UserManagment Loginview
+dic 08, 2023 2:02:29 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 4:37:09 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 14, 2023 4:37:09 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 4:37:24 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 4:38:37 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 4:45:21 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 4:51:04 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 14, 2023 4:51:04 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 4:51:07 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 4:51:08 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 4:51:15 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 5:12:55 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 14, 2023 5:12:55 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 5:12:57 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 14, 2023 5:13:05 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 14, 2023 5:16:08 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 14, 2023 5:16:08 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 5:16:10 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 14, 2023 5:16:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 14, 2023 5:19:38 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 5:20:30 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 5:20:32 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 14, 2023 5:20:38 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 14, 2023 5:24:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 5:24:19 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 14, 2023 5:32:53 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 5:33:38 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 5:44:00 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 5:44:02 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 14, 2023 5:45:26 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 5:46:29 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 5:46:31 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 14, 2023 5:51:01 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 14, 2023 5:51:01 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 5:51:03 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 14, 2023 5:52:18 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 5:52:26 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 14, 2023 5:52:37 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 14, 2023 5:52:39 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 14, 2023 5:52:51 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:01:51 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 10:01:51 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 10:01:57 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 10:02:00 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:12:58 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 10:12:58 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 10:13:00 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:18:33 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 10:18:35 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:18:50 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManagement view
+dic 15, 2023 10:20:38 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:20:41 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:20:41 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:20:46 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 10:20:47 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:23:01 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:23:02 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:23:06 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManagement view
+dic 15, 2023 10:23:56 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:23:56 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:23:58 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 10:23:58 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 10:23:59 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 10:24:01 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:24:01 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:24:02 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:24:02 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:24:06 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 10:24:06 AM com.maltomondo.maltomondo.controller.HomeManager register
+SEVERE: Controller Error
+java.lang.RuntimeException: java.lang.ClassNotFoundException: com.mysql.cj.jdbc.Driver
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.MySQLJDBCDAOFactory.beginTransaction(MySQLJDBCDAOFactory.java:34)
+	at com.maltomondo.maltomondo.controller.HomeManager.register(HomeManager.java:267)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.processRequest(Dispatcher.java:33)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.doPost(Dispatcher.java:77)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:563)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:631)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:676)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ClassNotFoundException: com.mysql.cj.jdbc.Driver
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1437)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1245)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:375)
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.MySQLJDBCDAOFactory.beginTransaction(MySQLJDBCDAOFactory.java:30)
+	... 31 more
+
+dic 15, 2023 10:27:33 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 10:27:33 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 10:27:34 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:27:39 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 10:27:39 AM com.maltomondo.maltomondo.controller.HomeManager register
+SEVERE: Controller Error
+java.lang.RuntimeException: java.lang.ClassNotFoundException: com.mysql.cj.jdbc.Driver
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.MySQLJDBCDAOFactory.beginTransaction(MySQLJDBCDAOFactory.java:34)
+	at com.maltomondo.maltomondo.controller.HomeManager.register(HomeManager.java:267)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.processRequest(Dispatcher.java:33)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.doPost(Dispatcher.java:77)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:563)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:631)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:676)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ClassNotFoundException: com.mysql.cj.jdbc.Driver
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1437)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1245)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:375)
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.MySQLJDBCDAOFactory.beginTransaction(MySQLJDBCDAOFactory.java:30)
+	... 31 more
+
+dic 15, 2023 10:30:29 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 10:30:29 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 10:30:30 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:30:40 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 10:30:40 AM com.maltomondo.maltomondo.controller.HomeManager register
+SEVERE: Controller Error
+java.lang.RuntimeException: java.lang.ClassNotFoundException: com.mysql.cj.jdbc.Driver
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.MySQLJDBCDAOFactory.beginTransaction(MySQLJDBCDAOFactory.java:34)
+	at com.maltomondo.maltomondo.controller.HomeManager.register(HomeManager.java:267)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.processRequest(Dispatcher.java:33)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.doPost(Dispatcher.java:77)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:563)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:631)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:676)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ClassNotFoundException: com.mysql.cj.jdbc.Driver
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1437)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1245)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:375)
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.MySQLJDBCDAOFactory.beginTransaction(MySQLJDBCDAOFactory.java:30)
+	... 31 more
+
+dic 15, 2023 10:31:26 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 10:31:26 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 10:31:27 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:31:38 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 10:33:07 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 10:33:08 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:33:21 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 10:33:26 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:33:27 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:33:27 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:34:46 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 10:34:46 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 10:34:49 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:35:24 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 10:38:46 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 10:38:47 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:39:01 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 10:50:30 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 10:52:42 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 10:52:42 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 10:52:42 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:52:53 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 10:53:08 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 10:55:43 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 10:55:43 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 10:55:44 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 10:55:49 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 10:56:18 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 10:57:14 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 10:57:14 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 10:57:15 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 10:57:24 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 11:01:10 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 11:01:10 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 11:01:14 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 11:01:35 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 11:01:38 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 11:01:38 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 11:01:39 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 11:01:40 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 11:02:06 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 11:02:09 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 11:02:16 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 11:02:16 AM com.maltomondo.maltomondo.controller.HomeManager login
+SEVERE: Controller Error
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because the return value of "java.sql.ResultSet.getString(String)" is null
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.read(UtenteDAOMySQLJDBCImpl.java:245)
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.findByEmail(UtenteDAOMySQLJDBCImpl.java:163)
+	at com.maltomondo.maltomondo.controller.HomeManager.login(HomeManager.java:119)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.processRequest(Dispatcher.java:33)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.doPost(Dispatcher.java:77)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:563)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:631)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:676)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+dic 15, 2023 11:04:18 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 11:04:18 AM com.maltomondo.maltomondo.controller.HomeManager login
+SEVERE: Controller Error
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because the return value of "java.sql.ResultSet.getString(String)" is null
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.read(UtenteDAOMySQLJDBCImpl.java:245)
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.findByEmail(UtenteDAOMySQLJDBCImpl.java:163)
+	at com.maltomondo.maltomondo.controller.HomeManager.login(HomeManager.java:119)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.processRequest(Dispatcher.java:33)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.doPost(Dispatcher.java:77)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:563)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:631)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:676)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+dic 15, 2023 11:04:21 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 11:04:26 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 11:04:26 AM com.maltomondo.maltomondo.controller.HomeManager login
+SEVERE: Controller Error
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because the return value of "java.sql.ResultSet.getString(String)" is null
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.read(UtenteDAOMySQLJDBCImpl.java:245)
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.findByEmail(UtenteDAOMySQLJDBCImpl.java:163)
+	at com.maltomondo.maltomondo.controller.HomeManager.login(HomeManager.java:119)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.processRequest(Dispatcher.java:33)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.doPost(Dispatcher.java:77)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:563)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:631)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:676)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+dic 15, 2023 11:05:19 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 11:05:20 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 11:05:28 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 11:05:32 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 11:05:41 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 11:06:00 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 11:06:25 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 11:06:25 AM com.maltomondo.maltomondo.controller.HomeManager login
+SEVERE: Controller Error
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because the return value of "java.sql.ResultSet.getString(String)" is null
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.read(UtenteDAOMySQLJDBCImpl.java:245)
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.findByEmail(UtenteDAOMySQLJDBCImpl.java:163)
+	at com.maltomondo.maltomondo.controller.HomeManager.login(HomeManager.java:119)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.processRequest(Dispatcher.java:33)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.doPost(Dispatcher.java:77)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:563)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:631)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:676)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+dic 15, 2023 11:10:12 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 11:10:26 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 11:10:30 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 11:10:37 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 11:10:37 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 11:11:06 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 11:11:07 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 11:11:15 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 11:11:17 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 11:11:30 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 11:11:31 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 11:11:50 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 11:11:51 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 11:12:09 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 11:12:09 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 11:12:11 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 11:12:27 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 11:12:29 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 11:12:32 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 11:12:59 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 11:12:59 AM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Errore di registrazione: java.lang.RuntimeException: java.sql.SQLException: Field 'Admin' doesn't have a default value
+dic 15, 2023 11:13:04 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 11:13:16 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 11:13:19 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 11:13:32 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 11:13:35 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 11:13:48 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 11:13:48 AM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Errore di registrazione: java.lang.RuntimeException: java.sql.SQLException: Field 'Admin' doesn't have a default value
+dic 15, 2023 11:45:53 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 11:45:53 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 11:45:55 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 11:46:04 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 11:46:21 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 11:46:29 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 11:46:29 AM com.maltomondo.maltomondo.controller.HomeManager login
+SEVERE: Controller Error
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because the return value of "java.sql.ResultSet.getString(String)" is null
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.read(UtenteDAOMySQLJDBCImpl.java:265)
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.findByEmail(UtenteDAOMySQLJDBCImpl.java:163)
+	at com.maltomondo.maltomondo.controller.HomeManager.login(HomeManager.java:119)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.processRequest(Dispatcher.java:33)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.doPost(Dispatcher.java:77)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:563)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:631)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:676)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+dic 15, 2023 11:50:39 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 11:50:40 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 11:50:45 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 11:50:45 AM com.maltomondo.maltomondo.controller.HomeManager login
+SEVERE: Controller Error
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because the return value of "java.sql.ResultSet.getString(String)" is null
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.read(UtenteDAOMySQLJDBCImpl.java:265)
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.findByEmail(UtenteDAOMySQLJDBCImpl.java:163)
+	at com.maltomondo.maltomondo.controller.HomeManager.login(HomeManager.java:119)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.processRequest(Dispatcher.java:33)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.doPost(Dispatcher.java:77)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:563)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:631)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:676)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+dic 15, 2023 12:43:00 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 12:43:00 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 12:43:02 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 12:43:28 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 12:44:02 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 12:44:07 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 12:44:07 PM com.maltomondo.maltomondo.controller.HomeManager login
+SEVERE: Controller Error
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because the return value of "java.sql.ResultSet.getString(String)" is null
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.read(UtenteDAOMySQLJDBCImpl.java:265)
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.findByEmail(UtenteDAOMySQLJDBCImpl.java:163)
+	at com.maltomondo.maltomondo.controller.HomeManager.login(HomeManager.java:119)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.processRequest(Dispatcher.java:33)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.doPost(Dispatcher.java:77)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:563)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:631)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:676)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+dic 15, 2023 12:50:07 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 12:50:07 PM com.maltomondo.maltomondo.controller.HomeManager login
+SEVERE: Controller Error
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because the return value of "java.sql.ResultSet.getString(String)" is null
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.read(UtenteDAOMySQLJDBCImpl.java:265)
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.findByEmail(UtenteDAOMySQLJDBCImpl.java:163)
+	at com.maltomondo.maltomondo.controller.HomeManager.login(HomeManager.java:119)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.processRequest(Dispatcher.java:33)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.doPost(Dispatcher.java:77)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:563)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:631)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:676)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+dic 15, 2023 12:50:10 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 12:50:11 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 12:50:11 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 12:50:11 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 12:50:56 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 12:50:56 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 12:50:57 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 12:51:12 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 12:51:13 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 12:51:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 12:51:29 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 12:51:31 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 4:28:08 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 4:28:08 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 4:28:09 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 4:28:12 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 4:28:34 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 4:28:34 PM com.maltomondo.maltomondo.controller.HomeManager login
+SEVERE: Controller Error
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because the return value of "java.sql.ResultSet.getString(String)" is null
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.read(UtenteDAOMySQLJDBCImpl.java:265)
+	at com.maltomondo.maltomondo.model.dao.mySQLJDBCImpl.UtenteDAOMySQLJDBCImpl.findByEmail(UtenteDAOMySQLJDBCImpl.java:163)
+	at com.maltomondo.maltomondo.controller.HomeManager.login(HomeManager.java:119)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.processRequest(Dispatcher.java:33)
+	at com.maltomondo.maltomondo.dispatcher.Dispatcher.doPost(Dispatcher.java:77)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:563)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:631)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:676)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+dic 15, 2023 4:34:21 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 4:34:22 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 4:34:40 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 4:34:40 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Errore di registrazione: java.lang.RuntimeException: java.sql.SQLIntegrityConstraintViolationException: Column 'Indirizzo' cannot be null
+dic 15, 2023 4:34:42 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 4:34:49 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 4:37:57 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 4:38:00 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 4:38:12 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 4:38:12 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Errore di registrazione: java.lang.RuntimeException: java.sql.SQLIntegrityConstraintViolationException: Column 'Indirizzo' cannot be null
+dic 15, 2023 4:38:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 4:38:38 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 4:38:48 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 4:38:48 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Errore di registrazione: java.lang.RuntimeException: java.sql.SQLIntegrityConstraintViolationException: Column 'Indirizzo' cannot be null
+dic 15, 2023 4:38:49 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 4:38:57 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 4:42:41 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 4:42:43 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 4:42:55 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 4:42:55 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Errore di registrazione: java.lang.RuntimeException: java.sql.SQLIntegrityConstraintViolationException: Column 'Indirizzo' cannot be null
+dic 15, 2023 4:42:56 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 4:46:19 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 4:46:29 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 4:46:30 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Errore di registrazione: java.lang.RuntimeException: java.sql.SQLIntegrityConstraintViolationException: Column 'Indirizzo' cannot be null
+dic 15, 2023 4:46:31 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 4:46:36 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 4:46:58 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 4:48:38 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 4:48:38 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 4:48:40 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 4:48:53 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 4:48:54 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Errore di registrazione: java.lang.RuntimeException: java.sql.SQLIntegrityConstraintViolationException: Column 'Indirizzo' cannot be null
+dic 15, 2023 4:48:59 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 4:49:07 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 5:01:39 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 5:01:39 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 5:01:40 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 5:01:48 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 5:01:49 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Prima dell'inserimento nel database
+dic 15, 2023 5:01:49 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Dopo l'inserimento nel database
+dic 15, 2023 5:02:06 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 5:02:10 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 5:02:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 5:02:15 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 5:09:05 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 5:09:05 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 5:09:09 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 5:09:28 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 5:19:46 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 5:19:46 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 5:19:49 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 5:19:49 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 5:19:57 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 5:19:58 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: luigi@email.com
+dic 15, 2023 5:24:42 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 5:24:42 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 5:24:43 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 5:25:04 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 5:25:05 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: luigi@email.com
+dic 15, 2023 5:25:05 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 15, 2023 5:25:22 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 5:59:28 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 5:59:29 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 5:59:44 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 5:59:44 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: luigi@email.com
+dic 15, 2023 5:59:44 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 15, 2023 5:59:49 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 5:59:49 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: luigi@email.com
+dic 15, 2023 5:59:49 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 15, 2023 5:59:50 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 5:59:50 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 5:59:56 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 5:59:56 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: luigi@email.com
+dic 15, 2023 5:59:56 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 15, 2023 6:00:37 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 6:00:37 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:00:38 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:01:21 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:01:21 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: luigi@email.com
+dic 15, 2023 6:01:21 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 15, 2023 6:01:33 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 6:01:33 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:02:35 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:02:35 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 15, 2023 6:02:37 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 6:02:49 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:07:46 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 6:07:46 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:08:18 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:08:19 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:08:20 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:08:20 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:08:22 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 6:09:30 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:09:31 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:09:32 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:09:33 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 6:09:51 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 6:09:52 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:09:54 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 6:10:13 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 6:10:13 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Prima dell'inserimento nel database
+dic 15, 2023 6:10:13 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Dopo l'inserimento nel database
+dic 15, 2023 6:10:29 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:10:36 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:10:36 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 15, 2023 6:11:33 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:11:33 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: nicolo.venieri@edu.unife.it
+dic 15, 2023 6:11:33 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 15, 2023 6:12:03 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 6:12:04 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:12:25 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:12:30 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:13:47 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:13:53 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:15:27 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:15:31 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:15:38 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:15:41 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:15:42 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:15:45 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:15:46 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:15:49 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:15:52 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:18:52 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:18:54 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:19:01 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:19:06 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:19:17 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:23:20 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:23:21 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:23:23 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 6:23:25 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:23:26 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:24:01 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 6:24:01 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Errore di registrazione: com.maltomondo.maltomondo.model.dao.exception.DuplicatedObjectException: UtenteDAOJDBCImpl.create: Tentativo di inserimento di un utente già esistente.
+dic 15, 2023 6:24:01 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Prima dell'inserimento nel database
+dic 15, 2023 6:24:01 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Dopo l'inserimento nel database
+dic 15, 2023 6:24:05 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:24:20 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 6:24:20 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Errore di registrazione: com.maltomondo.maltomondo.model.dao.exception.DuplicatedObjectException: UtenteDAOJDBCImpl.create: Tentativo di inserimento di un utente già esistente.
+dic 15, 2023 6:24:20 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Prima dell'inserimento nel database
+dic 15, 2023 6:24:20 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Dopo l'inserimento nel database
+dic 15, 2023 6:24:22 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:24:36 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:24:38 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 6:24:48 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 6:24:48 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Prima dell'inserimento nel database
+dic 15, 2023 6:24:48 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Dopo l'inserimento nel database
+dic 15, 2023 6:24:50 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:24:54 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 6:24:54 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Errore di registrazione: com.maltomondo.maltomondo.model.dao.exception.DuplicatedObjectException: UtenteDAOJDBCImpl.create: Tentativo di inserimento di un utente già esistente.
+dic 15, 2023 6:24:54 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Prima dell'inserimento nel database
+dic 15, 2023 6:24:54 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Dopo l'inserimento nel database
+dic 15, 2023 6:26:42 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 6:26:42 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:26:43 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:26:43 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:26:55 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:26:56 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: luigi@email.com
+dic 15, 2023 6:26:56 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 15, 2023 6:27:05 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:27:06 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 6:27:08 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 6:27:41 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 15, 2023 6:27:41 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Prima dell'inserimento nel database
+dic 15, 2023 6:27:41 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Dopo l'inserimento nel database
+dic 15, 2023 6:27:42 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:27:47 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:27:47 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 15, 2023 6:28:10 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 6:28:10 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:28:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:28:14 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: fr63@gmail.com
+dic 15, 2023 6:28:14 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
