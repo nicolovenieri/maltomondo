@@ -91,25 +91,24 @@ public class HomeManager {
         }
     }
 
-    public static void login(HttpServletRequest request, HttpServletResponse response){
-
-        DAOFactory sessionDAOFactory= null;
+    public static void login(HttpServletRequest request, HttpServletResponse response) {
+        DAOFactory sessionDAOFactory = null;
         DAOFactory daoFactory = null;
         Utente loggedUser;
         String applicationMessage = null;
         Logger logger = LogService.getApplicationLogger();
 
-        try{
-            Map sessionFactoryParameters=new HashMap<String,Object>();
-            sessionFactoryParameters.put("request",request);
-            sessionFactoryParameters.put("response",response);
-            sessionDAOFactory = DAOFactory.getDAOFactory(Configuration.COOKIE_IMPL,sessionFactoryParameters);
+        try {
+            Map<String, Object> sessionFactoryParameters = new HashMap<>();
+            sessionFactoryParameters.put("request", request);
+            sessionFactoryParameters.put("response", response);
+            sessionDAOFactory = DAOFactory.getDAOFactory(Configuration.COOKIE_IMPL, sessionFactoryParameters);
             sessionDAOFactory.beginTransaction();
 
             UtenteDAO sessionUserDAO = sessionDAOFactory.getUtenteDAO();
             loggedUser = sessionUserDAO.findLoggedUser();
 
-            daoFactory = DAOFactory.getDAOFactory(Configuration.DAO_IMPL,null);
+            daoFactory = DAOFactory.getDAOFactory(Configuration.DAO_IMPL, null);
             daoFactory.beginTransaction();
 
             String email = request.getParameter("email");
@@ -118,21 +117,25 @@ public class HomeManager {
             UtenteDAO utenteDAO = daoFactory.getUtenteDAO();
             Utente utente = utenteDAO.findByEmail(email);
 
-            if (utente == null || !utente.getPassword().equals(password) || utente.isBlocked() == true || utente.isDeleted() == true) {
+            if (utente == null || !utente.getPassword().equals(password) || utente.isDeleted()) {
                 sessionUserDAO.deleteUser(null);
-                applicationMessage = "email e password errati!";
-                loggedUser=null;
+                applicationMessage = "Email e/o password errati!";
+                loggedUser = null;
                 request.setAttribute("viewUrl", "HomeManager/HomePage");
-             } else {
-                loggedUser = sessionUserDAO.create(utente.getId_utente(), utente.getNome(), utente.getCognome(),null, null, null, null, null, utente.isAdmin(), 0);
-
-                if(utente != null && utente.isAdmin()) {
-                    logger.log(Level.INFO, "Utente loggato come admin: " + utente.getEmail());
-                    logger.log(Level.INFO, "Vista da visualizzare: " + request.getAttribute("viewUrl"));
-                    request.setAttribute("viewUrl", "AdminManagment/AdminPage");
+            } else {
+                if (utente.isBlocked()) {
+                    // Utente bloccato, reindirizza alla pagina BannedView
+                    request.setAttribute("viewUrl", "HomeManager/BannedView");
                 } else {
-                    logger.log(Level.INFO, "Vista da visualizzare: " + request.getAttribute("viewUrl"));
-                    request.setAttribute("viewUrl", "HomeManager/HomePage");
+                    loggedUser = sessionUserDAO.create(utente.getId_utente(), utente.getNome(), utente.getCognome(), null, null, null, null, null, utente.isAdmin(), 0);
+
+                    if (utente != null && utente.isAdmin()) {
+                        logger.log(Level.INFO, "Utente loggato come admin: " + utente.getEmail());
+                        logger.log(Level.INFO, "Vista da visualizzare: " + request.getAttribute("viewUrl"));
+                        request.setAttribute("viewUrl", "AdminManagment/AdminPage");
+                    } else {
+                        logger.log(Level.INFO, "Vista da visualizzare: " + request.getAttribute("viewUrl"));
+                        request.setAttribute("viewUrl", "HomeManager/HomePage");
                     /*
                     OrdineDAO ordineDAO = daoFactory.getOrdineDAO();
                     List<Ordine> ordini = new ArrayList<Ordine>(ordineDAO.showPersonalOrders(loggedUser.getId_utente()));
@@ -141,21 +144,18 @@ public class HomeManager {
                       //qui dovrai mettere il redirect al listino prodotti in quanto quando uno logga deve vedere i propri ordini mentre se uno logga e non ha ordini non deve vederli
                     }
                     */
-
+                    }
                 }
             }
-
-
 
             daoFactory.commitTransaction();
             sessionDAOFactory.commitTransaction();
 
-            request.setAttribute("loggedOn",loggedUser!=null);
+            request.setAttribute("loggedOn", loggedUser != null);
             request.setAttribute("loggedUser", loggedUser);
             request.setAttribute("applicationMessage", applicationMessage);
-            //  request.setAttribute("viewUrl", "HomeManager/HomePage");
 
-        }catch (Exception e){
+        } catch (Exception e) {
             logger.log(Level.SEVERE, "Controller Error", e);
             try {
                 if (daoFactory != null) daoFactory.rollbackTransaction();
@@ -164,16 +164,15 @@ public class HomeManager {
             }
             throw new RuntimeException(e);
 
-        } finally{
+        } finally {
             try {
                 if (daoFactory != null) daoFactory.closeTransaction();
                 if (sessionDAOFactory != null) sessionDAOFactory.closeTransaction();
             } catch (Throwable t) {
             }
         }
-
-
     }
+
 
     public static void logout(HttpServletRequest request, HttpServletResponse response){
         DAOFactory sessionDAOFactory= null;

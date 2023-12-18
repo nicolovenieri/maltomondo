@@ -1950,3 +1950,533 @@ dic 15, 2023 6:28:14 PM com.maltomondo.maltomondo.controller.HomeManager login
 INFO: Utente loggato come admin: fr63@gmail.com
 dic 15, 2023 6:28:14 PM com.maltomondo.maltomondo.controller.HomeManager login
 INFO: Vista da visualizzare: null
+dic 15, 2023 6:38:44 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 15, 2023 6:38:44 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:38:49 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 15, 2023 6:39:19 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 15, 2023 6:39:37 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:39:58 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 15, 2023 6:40:12 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 15, 2023 6:40:12 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: fr63@gmail.com
+dic 15, 2023 6:40:12 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 15, 2023 6:40:26 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 15, 2023 6:40:27 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 16, 2023 11:21:37 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 16, 2023 11:21:37 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 16, 2023 11:21:54 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 16, 2023 11:22:06 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 16, 2023 11:22:22 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 16, 2023 11:22:23 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 16, 2023 11:22:31 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 16, 2023 11:22:35 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 16, 2023 11:23:19 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 16, 2023 11:23:19 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 16, 2023 11:23:20 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 16, 2023 11:23:40 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 16, 2023 11:23:40 AM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Prima dell'inserimento nel database
+dic 16, 2023 11:23:40 AM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Dopo l'inserimento nel database
+dic 16, 2023 11:23:42 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 16, 2023 11:23:46 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 16, 2023 11:23:46 AM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 16, 2023 11:23:51 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 16, 2023 11:23:52 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 16, 2023 11:24:10 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 16, 2023 11:24:14 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 16, 2023 11:24:29 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 16, 2023 11:24:29 AM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: luigi@email.com
+dic 16, 2023 11:24:29 AM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 16, 2023 11:24:34 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 16, 2023 11:24:53 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 16, 2023 11:25:10 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 16, 2023 11:25:10 AM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: nicolo.venieri@edu.unife.it
+dic 16, 2023 11:25:10 AM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 16, 2023 11:25:18 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 16, 2023 11:25:18 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 16, 2023 11:25:27 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 16, 2023 11:25:29 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 16, 2023 11:25:37 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 16, 2023 11:25:39 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 16, 2023 11:25:52 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 16, 2023 11:25:52 AM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: fr63@gmail.com
+dic 16, 2023 11:25:52 AM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 16, 2023 11:26:00 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 16, 2023 11:30:35 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 16, 2023 11:30:35 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 16, 2023 11:30:38 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager adminView
+dic 16, 2023 11:30:40 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager adminView
+dic 16, 2023 11:30:46 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager adminView
+dic 16, 2023 11:30:46 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager adminView
+dic 16, 2023 11:30:46 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager adminView
+dic 16, 2023 11:30:47 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 16, 2023 11:30:48 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager adminView
+dic 16, 2023 11:30:49 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 16, 2023 11:30:50 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 16, 2023 11:35:11 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 16, 2023 11:35:11 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 16, 2023 11:35:14 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 16, 2023 11:35:15 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 16, 2023 11:35:20 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 16, 2023 11:35:20 AM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: nicolo.venieri@edu.unife.it
+dic 16, 2023 11:35:20 AM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 16, 2023 11:35:22 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 16, 2023 11:35:23 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager adminView
+dic 16, 2023 11:35:24 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 16, 2023 11:35:24 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 16, 2023 11:35:42 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 16, 2023 11:42:00 AM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 16, 2023 11:42:00 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 16, 2023 11:42:02 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 16, 2023 11:42:04 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 16, 2023 11:42:05 AM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: nicolo.venieri@edu.unife.it
+dic 16, 2023 11:42:05 AM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 16, 2023 11:42:06 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment adminView
+dic 16, 2023 11:42:07 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 16, 2023 11:42:08 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment adminView
+dic 16, 2023 11:42:10 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 16, 2023 11:42:19 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment adminView
+dic 16, 2023 11:42:27 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 16, 2023 11:42:28 AM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment adminView
+dic 18, 2023 2:56:20 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 18, 2023 2:56:20 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 2:56:22 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 18, 2023 2:56:47 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 18, 2023 2:56:47 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Prima dell'inserimento nel database
+dic 18, 2023 2:56:47 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Dopo l'inserimento nel database
+dic 18, 2023 2:57:08 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 2:57:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 2:57:14 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 2:58:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 2:58:14 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: f@mail.com
+dic 18, 2023 2:58:14 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 2:58:19 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 18, 2023 2:58:22 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 2:58:25 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 2:58:25 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: f@mail.com
+dic 18, 2023 2:58:25 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 3:21:34 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 18, 2023 3:21:34 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 3:21:36 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 18, 2023 3:21:36 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 3:21:40 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 3:21:41 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: f@mail.com
+dic 18, 2023 3:21:41 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 3:21:49 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment blockuser
+dic 18, 2023 3:23:35 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 3:23:46 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 3:23:48 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 3:23:57 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 3:23:57 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: f@mail.com
+dic 18, 2023 3:23:57 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 3:24:38 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment blockuser
+dic 18, 2023 3:41:17 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 18, 2023 3:41:17 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 3:41:18 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 3:41:23 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 3:41:24 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: f@mail.com
+dic 18, 2023 3:41:24 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 3:42:09 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment blockuser
+dic 18, 2023 3:42:29 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment blockuser
+dic 18, 2023 3:42:36 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 3:42:37 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment adminView
+dic 18, 2023 3:49:27 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 18, 2023 3:49:27 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 3:49:28 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment adminView
+dic 18, 2023 3:49:58 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment deleteuser
+dic 18, 2023 3:57:53 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 18, 2023 3:57:53 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 3:58:13 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 3:58:19 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 3:58:21 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 3:58:29 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 3:58:30 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 18, 2023 3:58:48 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager register
+dic 18, 2023 3:58:48 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Prima dell'inserimento nel database
+dic 18, 2023 3:58:48 PM com.maltomondo.maltomondo.controller.HomeManager register
+INFO: Dopo l'inserimento nel database
+dic 18, 2023 3:58:50 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 3:58:54 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 3:58:54 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 3:59:05 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 18, 2023 3:59:06 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 3:59:16 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 3:59:16 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: f@mail.com
+dic 18, 2023 3:59:16 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 3:59:23 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment deleteuser
+dic 18, 2023 4:00:23 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment deleteuser
+dic 18, 2023 4:12:08 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 4:12:10 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 18, 2023 4:12:10 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 4:12:15 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 4:12:15 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: f@mail.com
+dic 18, 2023 4:12:15 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 4:16:18 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 4:16:18 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: f@mail.com
+dic 18, 2023 4:16:18 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 4:16:23 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment deleteuser
+dic 18, 2023 4:20:53 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment deleteuser
+dic 18, 2023 4:21:01 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 4:21:04 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 4:21:09 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 4:21:09 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: f@mail.com
+dic 18, 2023 4:21:09 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 4:22:57 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 4:22:57 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: f@mail.com
+dic 18, 2023 4:22:57 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 4:23:34 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 4:23:34 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: f@mail.com
+dic 18, 2023 4:23:34 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 4:23:36 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment deleteuser
+dic 18, 2023 4:23:47 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment blockuser
+dic 18, 2023 4:25:57 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment deleteuser
+dic 18, 2023 4:26:50 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment deleteuser
+dic 18, 2023 4:30:03 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 18, 2023 4:30:03 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 4:30:04 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 4:30:18 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 4:30:19 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: f@mail.com
+dic 18, 2023 4:30:19 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 4:30:37 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment setadmin
+dic 18, 2023 4:30:48 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment unsetadmin
+dic 18, 2023 4:31:02 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment blockuser
+dic 18, 2023 4:31:08 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment unblock
+dic 18, 2023 4:34:34 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment unsetadmin
+dic 18, 2023 4:34:44 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment unblock
+dic 18, 2023 4:34:50 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment blockuser
+dic 18, 2023 4:34:52 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 4:34:53 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 18, 2023 4:34:54 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 4:35:09 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 4:35:23 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 4:35:31 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 4:35:31 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: f@mail.com
+dic 18, 2023 4:35:31 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 4:35:34 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment unblock
+dic 18, 2023 4:35:36 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment setadmin
+dic 18, 2023 4:35:49 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment unblock
+dic 18, 2023 4:35:57 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment unblock
+dic 18, 2023 4:36:23 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment unblock
+dic 18, 2023 4:36:32 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment unblock
+dic 18, 2023 4:36:59 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 18, 2023 4:36:59 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 4:37:01 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment adminView
+dic 18, 2023 4:37:04 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment unblock
+dic 18, 2023 5:11:14 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 18, 2023 5:11:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 5:11:15 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 18, 2023 5:11:16 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 5:12:14 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 5:12:14 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: HomeManager/BannedView
+dic 18, 2023 5:12:32 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 5:12:32 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 5:20:55 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 18, 2023 5:20:55 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 5:20:56 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 18, 2023 5:20:57 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 5:21:01 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 5:21:11 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 5:21:12 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 5:21:17 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 5:21:18 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 5:21:22 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 5:21:26 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 5:21:27 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 5:21:31 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 5:21:33 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 5:21:39 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 5:21:39 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 5:21:52 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 5:21:54 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 18, 2023 5:21:55 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 5:21:59 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 5:21:59 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: f@mail.com
+dic 18, 2023 5:21:59 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 5:22:09 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment setadmin
+dic 18, 2023 5:22:11 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 5:22:12 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 18, 2023 5:22:20 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 5:22:35 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 5:22:35 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Utente loggato come admin: admingestione@mail.com
+dic 18, 2023 5:22:35 PM com.maltomondo.maltomondo.controller.HomeManager login
+INFO: Vista da visualizzare: null
+dic 18, 2023 5:22:52 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: AdminManagment blockuser
+dic 18, 2023 5:22:53 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 5:22:55 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager logout
+dic 18, 2023 5:22:56 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 5:23:02 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager login
+dic 18, 2023 5:23:13 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 5:24:31 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 5:25:22 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 5:26:37 PM com.maltomondo.maltomondo.services.logservice.LogService getApplicationLogger
+CONFIG: Logger: maltomondo created.
+dic 18, 2023 5:26:37 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 5:26:41 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 5:26:42 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 18, 2023 5:26:45 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 5:26:46 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 5:26:48 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 5:26:49 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager registerView
+dic 18, 2023 5:26:50 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view
+dic 18, 2023 5:26:51 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager loginView
+dic 18, 2023 5:26:51 PM com.maltomondo.maltomondo.dispatcher.Dispatcher processRequest
+INFO: HomeManager view

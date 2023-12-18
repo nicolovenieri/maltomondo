@@ -14,7 +14,7 @@
         <h1 class="logo"><!-- Logo del sito -->
             MaltoMondo
         </h1>
-        <link rel="stylesheet" type="text/css" href="css/styles.css">
+        <!--<link rel="stylesheet" type="text/css" href="css/styles.css">-->
 
         <% if (!loggedOn) { %>
         <a href="<%= request.getContextPath() %>/Dispatcher?controllerAction=HomeManager.loginView">
@@ -32,6 +32,11 @@
         <a href="<%= request.getContextPath() %>/Dispatcher?controllerAction=HomeManager.view">
             <button id="home" class="button">Home</button>
         </a>
+        <% if (loggedUser != null && loggedUser.isAdmin()) { %>
+        <a href="<%= request.getContextPath() %>/Dispatcher?controllerAction=AdminManagment.adminView">
+            <button id="admin zone" class="button">Admin Zone</button>
+        </a>
+        <% } %>
     </div>
 </header>
 <!-- OCCHIO AL BOTTONE DEVI METTERCI LOGIN E NON VAI AL NEGOZIO -->

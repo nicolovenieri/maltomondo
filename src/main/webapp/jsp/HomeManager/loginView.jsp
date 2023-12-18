@@ -50,7 +50,7 @@
     </label> Show Password
     <div id="passwordAlert" style="color: red; display: none;">Password non inserita!</div>
     <br>
-    <input type="submit" value="Login">
+    <button type="submit" name="login" value="login">Login</button>
 </form>
 </body>
 </html>
